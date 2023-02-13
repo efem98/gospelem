@@ -1,0 +1,11 @@
+#home ul li a:hover{
+	color:black;
+}
+
+#secret{
+	margin: 40px auto;
+	max-width: 900px;
+}
+#secret h1{
+	font-size: 2rem;
+}
